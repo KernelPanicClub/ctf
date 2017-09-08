@@ -1,12 +1,19 @@
 Pre CTF
 
+Bajo con http://9soundclouddownloader.com/
 Se abrio con AudioCity
 Se recorto los pedazos de ruido
 Se paso por el programa http://www.sonicvisualiser.org/
 Analisis de espectro se ve la imagen
-Codigo Base64 (hipotesis)
+Transcribo
+Codigo Base64 
+Cesar +7
+"quote"
 
 
 
 http://www.gramschmalz.com/encoding-images-as-sound-decoding-via-spectrogram/
 https://solusipse.net/blog/post/basic-methods-of-audio-steganography-spectrograms/
+http://www.sonicvisualiser.org/download.html
+https://www.base64decode.org/
+http://www.dcode.fr/caesar-cipher
