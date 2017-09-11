@@ -24,6 +24,8 @@ Se abrio con AudioCity
 Se recorto los pedazos de ruido
 Se paso por el programa http://www.sonicvisualiser.org/
 Analisis de espectro se ve la imagen
+Primer pedazo se ve un QR, ajustar escala Log
+Escanear y manda a una URL, en la imagen esta el mensaje
 
 
 https://github.com/pwning/public-writeup/blob/master/mma2015/misc400-qr/writeup.md
