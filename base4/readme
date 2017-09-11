@@ -1,0 +1,32 @@
+Pre CTF
+
+Bajo con http://9soundclouddownloader.com/
+Se abrio con AudioCity
+Se recorto los pedazos de ruido
+Se paso por el programa http://www.sonicvisualiser.org/
+Analisis de espectro se ve la imagen
+Transcribo
+Codigo Base64 
+Cesar +7
+"quote" = WHEN ONE DOOR OF HAPPINESS CLOSES ANOTHER OPENS BUT OFTEN WE LOOK SO LONG AT THE CLOSED DOOR THAT WE DO NOT SEE THE ONE THAT HAS BEEN OPENED FOR US.TRY AGAIN
+
+
+http://www.gramschmalz.com/encoding-images-as-sound-decoding-via-spectrogram/
+https://solusipse.net/blog/post/basic-methods-of-audio-steganography-spectrograms/
+http://www.sonicvisualiser.org/download.html
+https://www.base64decode.org/
+http://www.dcode.fr/caesar-cipher
+
+
+Caso QR
+Bajo con http://9soundclouddownloader.com/
+Se abrio con AudioCity
+Se recorto los pedazos de ruido
+Se paso por el programa http://www.sonicvisualiser.org/
+Analisis de espectro se ve la imagen
+Primer pedazo se ve un QR, ajustar escala Log
+Escanear y manda a una URL, en la imagen esta el mensaje
+
+
+https://github.com/pwning/public-writeup/blob/master/mma2015/misc400-qr/writeup.md
+http://datagenetics.com/blog/november12013/index.html
